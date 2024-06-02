@@ -2,6 +2,14 @@
 
 This project explores the historical data of Nobel Prize winners to identify patterns and insights. The analysis covers various aspects such as gender distribution, repeat winners, prizes per category, country-wise distribution, and the age of winners at the time of receiving the prize.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Nobel-Prize-Analysis/assets/113255836/85307c00-27b4-4fb6-9070-1f652ca37834
+
+
+
+
 ## Setup and Context
 
 On November 27, 1895, Alfred Nobel signed his last will in Paris, dictating that his remaining estate should endow prizes for those who confer the greatest benefit to humankind. Every year, the Nobel Prize is awarded in the categories of chemistry, literature, physics, physiology or medicine, economics, and peace.
